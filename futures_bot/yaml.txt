@@ -1,0 +1,8 @@
+
+---
+
+To push to GitHub:
+
+1. Create folder `futures_bot` in your repo.
+2. Drop these files in with the exact paths.
+3. Commit and push.
